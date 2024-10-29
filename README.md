@@ -2,6 +2,9 @@
 <img src="https://github.com/hlt-mt/mosel/blob/main/mosel-logo-white.png" align="center" width="100%">
 
 # MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages
+<p align="center" width="100%">
+<a href="http://arxiv.org/abs/2410.01036"><img src="https://img.shields.io/badge/arXiv-2410.01036-b31b1b.svg"></a>
+</p>
 
 ## :grapes: Open-Source Compliant Speech Dataset List
 
