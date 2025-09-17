@@ -169,7 +169,7 @@
   </tr>
     <tr>
       <td><a href="https://huggingface.co/datasets/speechbrain/LoquaciousSet">LoquaciousSet<a/></td>
-      <td>CC BY 4.0</td>
+      <td>CC BY 3.0/4.0</td>
       <td>25,000</td>
       <td>en</td>
       <td>&#x2705;</td>
