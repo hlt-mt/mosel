@@ -176,7 +176,7 @@
     </tr>
     <tr>
       <td><a href="https://huggingface.co/datasets/nvidia/Granary">Granary :corn: <a/></td>
-      <td>CC BY 3.0</td>
+      <td>CC BY 3.0/4.0</td>
       <td>~1M</td>
       <td>bg, cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv, uk, ru</td>
       <td>&#x2705;</td>
