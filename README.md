@@ -162,6 +162,25 @@
       <td>bg, hr, cs, da, nl, en, et, fi, fr, de, el, hu, it, lv, lt, mt, pl, pt, ro, sk, sl, es, sv</td>
       <td>&#x2705;</td>
     </tr>
+    <tr>
+      <td colspan="5" style="text-align:center; font-weight:bold;">
+        Datasets added after MOSEL release
+      </td>
+  </tr>
+    <tr>
+      <td><a href="https://huggingface.co/datasets/speechbrain/LoquaciousSet">LoquaciousSet<a/></td>
+      <td>CC BY 4.0</td>
+      <td>25,000</td>
+      <td>en</td>
+      <td>&#x2705;</td>
+    </tr>
+    <tr>
+      <td><a href="https://huggingface.co/datasets/nvidia/Granary">Granary :corn: <a/></td>
+      <td>CC BY 3.0</td>
+      <td>~1M</td>
+      <td>bg, cs, da, de, el, en, es, et, fi, fr, hr, hu, it, lt, lv, mt, nl, pl, pt, ro, sk, sl, sv, uk, ru</td>
+      <td>&#x2705;</td>
+    </tr>
   </tbody>
 </table>
 
