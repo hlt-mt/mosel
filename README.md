@@ -168,6 +168,13 @@
       </td>
   </tr>
     <tr>
+      <td><a href="https://huggingface.co/datasets/espnet/yodas">Yodas<a/></td>
+      <td>CC BY 3.0</td>
+      <td>+500,000</td>
+      <td>+100</td>
+      <td>&#x2705;</td>
+    </tr>
+    <tr>
       <td><a href="https://huggingface.co/datasets/speechbrain/LoquaciousSet">LoquaciousSet<a/></td>
       <td>CC BY 3.0/4.0</td>
       <td>25,000</td>
