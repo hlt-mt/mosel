@@ -170,8 +170,8 @@
     <tr>
       <td><a href="https://huggingface.co/datasets/espnet/yodas">Yodas<a/></td>
       <td>CC BY 3.0</td>
-      <td>+500,000</td>
-      <td>+100</td>
+      <td>369,510</td>
+      <td>149</td>
       <td>&#x2705;</td>
     </tr>
     <tr>
